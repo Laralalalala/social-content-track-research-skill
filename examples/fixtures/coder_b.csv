@@ -1,0 +1,9 @@
+comment_id,parent_item_id,demand,sentiment,intent,barrier
+c001,p001,how-to,neutral,learn,unclear
+c002,p001,price,negative,consider,price
+c003,p003,how-to,positive,learn,complexity
+c004,p003,noise,negative,avoid,noise
+c005,p004,comparison,neutral,consider,unclear
+c006,p005,gift,positive,gift,unclear
+c007,p007,taste-problem,neutral,fix,taste
+c008,p010,equipment,neutral,learn,unclear

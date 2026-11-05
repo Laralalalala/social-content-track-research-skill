@@ -1,0 +1,7 @@
+interface:
+  display_name: "社媒内容赛道证据研究"
+  short_description: "小红书 / 抖音 / TikTok 内容赛道证据研究：分层抽样、L1–L5、评论双编码与 kappa、商业路径≠成交证明。方法与审计层，请自带采集。"
+  default_prompt: "Use $social-content-market-research to build an evidence-backed Xiaohongshu, Douyin, or TikTok content-track study with raw, analysis, and audit layers."
+
+policy:
+  allow_implicit_invocation: true

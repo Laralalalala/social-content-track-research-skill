@@ -1,0 +1,11 @@
+item_id,platform,url,author_id,posted_at,title_or_caption,like_count,comment_count,share_count,collected_at,source,metric_type
+p001,xiaohongshu,https://example.invalid/xhs/p001,author_demo_01,2026-08-02,Beginner pour-over setup for a small kitchen,120,14,3,2026-10-01,manual_export,cumulative
+p002,xiaohongshu,https://example.invalid/xhs/p002,author_demo_01,2026-08-18,Hand grinder cleaning mistakes I keep making,45,9,1,2026-10-01,manual_export,cumulative
+p003,douyin,https://example.invalid/dy/p003,author_demo_02,2026-08-21,Quiet grinder demo on a weekday morning,800,40,12,2026-10-01,manual_export,cumulative
+p004,douyin,https://example.invalid/dy/p004,author_demo_02,2026-09-03,Capsule machine vs pour-over for roommates,60,11,2,2026-10-01,manual_export,cumulative
+p005,xiaohongshu,https://example.invalid/xhs/p005,author_demo_03,2026-09-10,Gift guide: kettles under a budget cap,NaN,7,0,2026-10-01,manual_export,cumulative
+p006,tiktok,https://example.invalid/tt/p006,author_demo_04,2026-09-15,30-second bloom demonstration,inf,3,1,2026-10-01,manual_export,cumulative
+p007,xiaohongshu,https://example.invalid/xhs/p007,author_demo_05,2026-09-20,Why my first bag of beans tasted bitter,15,,0,2026-10-01,manual_export,cumulative
+p008,douyin,https://example.invalid/dy/p008,author_demo_03,2099-01-01,Scheduled draft placeholder (future date),22,1,0,2026-10-01,manual_export,unknown
+p009,xiaohongshu,https://example.invalid/xhs/p009,author_demo_04,2026-09-28,Counter-space layout for two brewing devices,not-a-number,2,0,2026-10-01,manual_export,cumulative
+p010,douyin,https://example.invalid/dy/p010,author_demo_01,2026-09-30,Weekend tasting notes with a cheap scale,33,4,1,2026-10-01,manual_export,cumulative

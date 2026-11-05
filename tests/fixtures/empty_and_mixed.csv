@@ -1,0 +1,7 @@
+item_id,likes,saves,posted_at,note
+p1,100,12,2024-06-01,ok
+p2,,15,2024-06-02,
+p3,N/A,21,not-a-date,mixed
+p4,250,,2024-06-04,empty saves
+p5,  ,0,2029-01-01,future date
+p6,1,2,2024/06/06,slash date

@@ -1,0 +1,5 @@
+item_id,demand,sentiment
+c1,how-to,neutral
+c2,price,negative
+c3,how-to,positive
+c4,other,neutral
