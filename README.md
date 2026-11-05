@@ -52,7 +52,7 @@ Optional complements such as TikHub or SocialDataX are **paid third-party data s
 ### Codex
 
 ```bash
-git clone https://github.com/<owner>/social-content-track-research-skill.git
+git clone https://github.com/Laralalalala/social-content-track-research-skill.git
 cp -R social-content-track-research-skill ~/.codex/skills/social-content-market-research
 ```
 
@@ -77,16 +77,16 @@ cp -R /path/to/social-content-track-research-skill ~/.codex/skills/social-conten
 Once this repository is published under your GitHub account, catalogs that speak the Agent Skills installer can add it with:
 
 ```bash
-npx skills add <owner>/social-content-track-research-skill
+npx skills add Laralalalala/social-content-track-research-skill
 ```
 
 If the installer asks for a skill slug (frontmatter `name`):
 
 ```bash
-npx skills add <owner>/social-content-track-research-skill --skill social-content-market-research
+npx skills add Laralalalala/social-content-track-research-skill --skill social-content-market-research
 ```
 
-Replace `<owner>` with the GitHub user or organization that publishes the repo. This package is the skill; there is no inner nested skill folder.
+Replace `Laralalalala` with the GitHub user or organization that publishes the repo. This package is the skill; there is no inner nested skill folder.
 
 ### 触发示例 / Trigger examples
 
